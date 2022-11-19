@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Whatsapp to Any </string>
+    <string name="phone_number_hint"><font size="16">Phone number</font></string>
+    <string name="message_hint"><font size="16">Your message please</font></string>
+</resources>
